@@ -1,10 +1,11 @@
 # Loop-Free_Property_Verification
-##Experimental details
+#Experimental details
 
 mininet ←-→  remote controller(POX controller)
 Our work: modify POX controller to verify if loop exists when controller accept a rule
 
 step 1: implement our verification module
+<\br>
 step 2: modify ofp_flow_mod class in POX
 
 inside POX:
